@@ -499,7 +499,17 @@ ul.dropdown-menu li {
 }
 
 .bg-1 {
-  background: url("../images/bg/home-2.jpg") no-repeat 50% 50%;
+  background: url("../images/bg/industrial.jpg") no-repeat 50% 50%;
+  background-size: cover;
+}
+
+.bg-12 {
+  background: url("../images/bg/didactico.jpg") no-repeat 50% 50%;
+  background-size: cover;
+}
+
+.bg-13 {
+  background: url("../images/bg/lab2.jpg") no-repeat 50% 50%;
   background-size: cover;
 }
 
