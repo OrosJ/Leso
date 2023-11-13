@@ -116,13 +116,13 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 }
 
 .btn-solid-border {
-  border: 2px solid #d67c21;
+  border: 2px solid #ffffff;
   background: transparent;
-  color: #242424;
+  color: #ffffff;
 }
 
 .btn-solid-border:hover {
-  border: 2px solid #d67c21;
+  border: 2px solid #ffffff;
   background: #d67c21;
 }
 
